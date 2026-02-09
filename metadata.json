@@ -1,0 +1,8 @@
+{
+  "name": "Kinetix AI - Tracking Overlay",
+  "description": "A real-time AI movement coach that uses multimodal vision and audio to correct exercise form and track progress.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
